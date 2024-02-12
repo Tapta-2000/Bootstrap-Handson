@@ -1,0 +1,210 @@
+*
+{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+}
+#contain
+{
+    background-color: #F9EBDE;
+    height: 55px;
+}
+#navar
+{
+    margin-left:65px;
+    font-size:15px;
+}
+#r-text
+{
+    margin-right:65px;
+    font-size:15px;
+}
+#sec-nav
+{
+    margin-left:65px;
+    font-size:40px;
+}
+#sec-text
+{
+    margin-right:65px;
+    font-size:20px;
+}
+
+#small-para
+{
+    font-size:40px;
+    color:#097B92;
+    margin:50px 120px 50px 120px;
+    text-decoration:normal;
+   
+
+}
+#blue-color
+{
+    background-color:#01010F;
+}
+#top-mar
+{
+    font-size:22px;
+    color:white;
+    margin-top:60px;
+}
+.link-first
+{
+    color:aqua;
+    font-size:23px;
+    font-weight:bold;
+    text-decoration:none;
+}
+
+#small-mar
+{
+    padding-top:60px;
+    padding-left:114px;
+    color:white;
+    padding-bottom:30px;
+    
+}
+.cng-fnt
+{
+    font-size:54px;
+    font-weight:bold;
+}
+
+#marg
+{
+    margin-bottom:20px;
+}
+
+#image-border
+{
+    border:2px solid white;
+    border-radius:13px;
+}
+
+#depth
+{
+    color:black;
+
+}
+
+#services
+{
+    font-size:40px;
+    color:black;
+    display:inline-block;
+}
+
+.links-deco
+{
+    font-size:20px;
+    color:white;
+    text-decoration:none;
+
+}
+.lg-font
+{
+    font-size:45px;
+    color:white;
+    font-weight:bold;
+    font-family: sans-serif;
+    text-align: left;
+    margin-bottom:0 !important;
+    margin-block-start: 0em!important;
+}
+
+.sm-font
+{font-size:23px;
+    color:white;
+    
+    font-family: sans-serif;
+    text-align: left;
+    margin-bottom:0 !important;
+    margin-block-start: 0 !important;
+
+
+}
+.some-links
+{
+    display:flex;
+    gap:30px;
+
+}
+#btn-style
+{
+    background-color:aqua;
+    font-weight: bold;
+    font-family:sans-serif;
+    border-radius: 5px;
+    height:40px;
+    
+    position:absolute;
+    left:0px;
+    
+}
+
+#link-work
+{
+    font-size:20px;
+    text-decoration:none;
+    color:steelblue;
+    font-weight:bold;
+}
+
+#marg-try
+{
+    padding-right:125px;
+    color:black
+}
+#just-marg
+{
+    margin-right:7px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  #first-marg
+  {
+    padding-left:125px;
+  }
+
+  #link-change
+  {
+    color:black;
+    font-size:14px;
+    text-decoration: none;
+  }
+
+  #link-sink
+  {
+    text-decoration: none;
+    color:#106BD2;
+    
+  }
+
+  #link-parent
+  {
+    margin-top:25px;
+    margin-bottom:25px;
+    color:#106BD2;
+  }
+
+  #flex-style
+  {
+    display:flex;
+    flex-direction: column;
+    gap:100px;
+  }
+
+
+  
+
+
+
